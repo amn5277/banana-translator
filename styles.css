@@ -63,6 +63,7 @@ body{
 }
 
 .footer-side{
+    position: absolute;
     bottom: 0;
     color: white;
     text-align: center;
