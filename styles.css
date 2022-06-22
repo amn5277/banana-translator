@@ -33,7 +33,7 @@ body{
 .section-input{
     display: block;
     margin: 1.5rem auto;
-    width: 90%;
+    width: 80%;
     height: 6rem;
     padding: 0.5rem;
     border-radius: 0.5rem;
@@ -52,7 +52,7 @@ body{
 
 .section-output{
     margin: 2.5rem auto;
-    width: 90%;
+    width: 80%;
 
     border: 0.1rem solid black;
     padding: 0.5rem;
@@ -64,6 +64,7 @@ body{
 
 .footer-side{
     position: absolute;
+    width: 100%;
     bottom: 0;
     color: white;
     text-align: center;
