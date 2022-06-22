@@ -32,8 +32,8 @@ body{
 
 .section-input{
     display: block;
-    margin: 1.5rem 2.5rem;
-    width: 100%;
+    margin: 1.5rem auto;
+    width: 90%;
     height: 6rem;
     padding: 0.5rem;
     border-radius: 0.5rem;
@@ -51,8 +51,8 @@ body{
 /* output-section */
 
 .section-output{
-    margin: 2.5rem 2.5rem;
-    width: 100%;
+    margin: 2.5rem auto;
+    width: 90%;
 
     border: 0.1rem solid black;
     padding: 0.5rem;
