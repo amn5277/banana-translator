@@ -63,8 +63,8 @@ body{
 }
 
 .footer-side{
+    bottom: 0;
     color: white;
-    height: 100%;
     text-align: center;
     background-color: var(--primary-color);
 }
